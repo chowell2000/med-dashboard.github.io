@@ -13,4 +13,3 @@ This is my first post, how exciting!
 -list
 
 ![picture](https://images.app.goo.gl/2geJZsjzyE3xehtL6)
-
