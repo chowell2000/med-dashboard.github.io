@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: First Post TEST!
 image: /img/hello_world.jpeg
 ---
 
